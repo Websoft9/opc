@@ -1,0 +1,30 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "一人公司实操指南"
+  subtitle: "一个人如何借助 AI 打造能赚钱的产品与服务"
+  author: "Darren"
+  chapters:
+    - index.qmd
+    - chapters/01-why-now.qmd
+    - chapters/02-org-cost.qmd
+    - chapters/03-business-structure.qmd
+    - chapters/04-judgment.qmd
+    - chapters/05-problem-first.qmd
+    - chapters/06-what-to-sell.qmd
+    - chapters/07-why-tob.qmd
+    - chapters/08-first-customers.qmd
+    - chapters/09-sales-delivery-renewal.qmd
+    - chapters/10-systemize-service.qmd
+    - chapters/11-profit-growth.qmd
+    - chapters/12-redefine-success.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: true
+
+lang: zh-CN

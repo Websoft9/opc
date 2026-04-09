@@ -1,0 +1,572 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "一人公司实操指南",
+    "section": "",
+    "text": "1 前言\n德鲁克说，“企业的目的在于创造顾客。”稻盛和夫说，“付出不亚于任何人的努力。”彼得·圣吉提醒我们，“今天的问题，往往来自昨天的解决方案。”如果把这三句话放在一起，你会发现它们几乎构成了今天个体创业最重要的三条底层逻辑：价值创造、持续精进，以及对系统变化的重新理解。\n这本书正是从这里开始的。\n过去很长一段时间里，创业在大多数人的想象中，都意味着组建团队、筹集资源、明确分工、扩大规模。公司之所以是公司，仿佛天然就需要由一群人来构成。一个人当然也可以做点生意、接点项目、经营一份副业，但那通常不被看作是一家真正的公司，而更像是一种过渡状态，一种资源不足时的临时选择。\n但 AI 的出现，正在悄悄改变这件事。\n它改变的，并不是创业这件事突然变简单了，也不是每个人从此都能轻松成功。真正被改变的，是组织成本。过去必须依赖一个小团队才能完成的研究、写作、分析、初步方案、内容生产、客户响应、流程管理，今天正在被越来越多的工具和自动化能力压缩。一个人第一次有机会拥有过去一个小团队才具备的某些生产能力、组织能力和响应能力。\n这并不意味着判断不重要了，恰恰相反。正因为执行变得更便宜，判断才变得更昂贵。正因为工具越来越多，理解客户、识别问题、完成成交、组织交付，才变得更稀缺。很多人会误以为 AI 时代最重要的是学会某个工具、掌握某个提示词、搭出某套自动化流程，但这些都不是创业真正的起点。真正的起点，始终是你是否知道该为谁解决什么问题，以及你是否有能力把这种价值稳定地交付出去。\n所以，这本书不是一本单纯讲 AI 工具的书，也不是一本泛泛而谈的创业鸡汤。它讨论的是一种正在形成的新组织形态：一人公司。这里说的一人公司，不是更努力的自由职业者，不是包装得更好的副业，也不是一个人硬扛所有事情的孤勇叙事。它指向的是这样一种可能性：一个人借助 AI 和现代工具，围绕某个清晰的价值场景，建立产品、服务、销售与交付的完整闭环，并以较小的组织规模实现真正可持续的业务。\n在这个意义上，一人公司并不是传统公司的简化版，而是一种新的创业单元。它要求的不是更大的胆量，而是更清晰的判断；不是更盲目的扩张冲动，而是更成熟的业务设计能力。你需要知道什么问题值得解决，什么客户值得服务，什么业务形态适合当下的自己，什么样的利润结构才是健康的，什么时候该坚持一个人，什么时候该借力扩张。换句话说，一人公司不是“少人版公司”，而是“重新被设计过的公司”。\n这也是我写这本书的原因。\n我越来越强烈地感受到，AI 时代最值得被认真讨论的，不只是某个新工具，也不是某个爆红的模型，而是“个体与公司之间的关系正在如何被重写”。如果过去的创业叙事，默认你要不断招人、融资、做大、复制，那么今天也许是时候问一个更重要的问题：如果一个人已经可以借助 AI 建立起一家真正运转的微型公司，我们还要不要用过去那套标准来定义创业、定义成功、定义成长？\n这本书想回答的，不是“如何一夜之间做成一家大公司”，而是“一个人如何在 AI 时代，认真地建立一家小而强、能赚钱、能持续、也能保有控制权的公司”。这里面会涉及时代判断，也会涉及很现实的方法：如何找切口，如何判断做 toB 还是 toC，如何设计服务与产品，如何拿到第一批客户，如何完成销售与交付，如何从一次性收入走向系统化收益，如何避免把自己困在越来越忙但越来越不自由的结构里。\n如果你正在犹豫是否要创业，或者已经开始尝试做自己的产品与服务；如果你不想把创业理解成“无止境扩张”，而更希望把它理解为一种更自主的价值创造方式；如果你相信 AI 不只是效率工具，而是会重新塑造个体、组织与公司的边界，那么这本书就是为你写的。\n创业从来都不只是商业选择，它也是一个人如何理解自己、组织自己、承担责任并赢得自由的过程。愿这本书，能帮助你把想法变成结构，把能力变成业务，把努力变成结果。更重要的是，帮助你在这个新的时代里，重新理解什么叫作真正属于自己的公司。",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>前言</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-why-now.html",
+    "href": "chapters/01-why-now.html",
+    "title": "2  一人公司，为什么会在今天出现",
+    "section": "",
+    "text": "3 一人公司，为什么会在今天出现",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>一人公司，为什么会在今天出现</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-why-now.html#公司为什么会被持续压缩",
+    "href": "chapters/01-why-now.html#公司为什么会被持续压缩",
+    "title": "2  一人公司，为什么会在今天出现",
+    "section": "3.1 公司为什么会被持续压缩",
+    "text": "3.1 公司为什么会被持续压缩\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>一人公司，为什么会在今天出现</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-why-now.html#ai-为什么让个体第一次接近公司的能力边界",
+    "href": "chapters/01-why-now.html#ai-为什么让个体第一次接近公司的能力边界",
+    "title": "2  一人公司，为什么会在今天出现",
+    "section": "3.2 AI 为什么让个体第一次接近公司的能力边界",
+    "text": "3.2 AI 为什么让个体第一次接近公司的能力边界\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>一人公司，为什么会在今天出现</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/01-why-now.html#为什么今天会出现一人公司这种新创业单元",
+    "href": "chapters/01-why-now.html#为什么今天会出现一人公司这种新创业单元",
+    "title": "2  一人公司，为什么会在今天出现",
+    "section": "3.3 为什么今天会出现一人公司这种新创业单元",
+    "text": "3.3 为什么今天会出现一人公司这种新创业单元\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>一人公司，为什么会在今天出现</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-org-cost.html",
+    "href": "chapters/02-org-cost.html",
+    "title": "3  AI 改变的不是创业梦想，而是组织成本",
+    "section": "",
+    "text": "4 AI 改变的不是创业梦想，而是组织成本",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>AI 改变的不是创业梦想，而是组织成本</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-org-cost.html#什么是组织成本",
+    "href": "chapters/02-org-cost.html#什么是组织成本",
+    "title": "3  AI 改变的不是创业梦想，而是组织成本",
+    "section": "4.1 什么是组织成本",
+    "text": "4.1 什么是组织成本\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>AI 改变的不是创业梦想，而是组织成本</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-org-cost.html#ai-压缩了哪些过去必须依赖团队的工作",
+    "href": "chapters/02-org-cost.html#ai-压缩了哪些过去必须依赖团队的工作",
+    "title": "3  AI 改变的不是创业梦想，而是组织成本",
+    "section": "4.2 AI 压缩了哪些过去必须依赖团队的工作",
+    "text": "4.2 AI 压缩了哪些过去必须依赖团队的工作\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>AI 改变的不是创业梦想，而是组织成本</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-org-cost.html#为什么创业的基本难题并没有消失",
+    "href": "chapters/02-org-cost.html#为什么创业的基本难题并没有消失",
+    "title": "3  AI 改变的不是创业梦想，而是组织成本",
+    "section": "4.3 为什么创业的基本难题并没有消失",
+    "text": "4.3 为什么创业的基本难题并没有消失\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>AI 改变的不是创业梦想，而是组织成本</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/02-org-cost.html#从招人解决问题到借助-ai-设计组织",
+    "href": "chapters/02-org-cost.html#从招人解决问题到借助-ai-设计组织",
+    "title": "3  AI 改变的不是创业梦想，而是组织成本",
+    "section": "4.4 从招人解决问题到借助 AI 设计组织",
+    "text": "4.4 从招人解决问题到借助 AI 设计组织\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>AI 改变的不是创业梦想，而是组织成本</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03-business-structure.html",
+    "href": "chapters/03-business-structure.html",
+    "title": "4  一人公司不是副业升级，而是一种新的业务结构",
+    "section": "",
+    "text": "5 一人公司不是副业升级，而是一种新的业务结构",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>一人公司不是副业升级，而是一种新的业务结构</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03-business-structure.html#一人公司和副业自由职业传统创业的差异",
+    "href": "chapters/03-business-structure.html#一人公司和副业自由职业传统创业的差异",
+    "title": "4  一人公司不是副业升级，而是一种新的业务结构",
+    "section": "5.1 一人公司和副业、自由职业、传统创业的差异",
+    "text": "5.1 一人公司和副业、自由职业、传统创业的差异\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>一人公司不是副业升级，而是一种新的业务结构</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03-business-structure.html#什么样的人适合一人公司",
+    "href": "chapters/03-business-structure.html#什么样的人适合一人公司",
+    "title": "4  一人公司不是副业升级，而是一种新的业务结构",
+    "section": "5.2 什么样的人适合一人公司",
+    "text": "5.2 什么样的人适合一人公司\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>一人公司不是副业升级，而是一种新的业务结构</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03-business-structure.html#一人公司的核心目标",
+    "href": "chapters/03-business-structure.html#一人公司的核心目标",
+    "title": "4  一人公司不是副业升级，而是一种新的业务结构",
+    "section": "5.3 一人公司的核心目标",
+    "text": "5.3 一人公司的核心目标\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>一人公司不是副业升级，而是一种新的业务结构</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/04-judgment.html",
+    "href": "chapters/04-judgment.html",
+    "title": "5  AI 替你做执行，但替不了判断、客户理解和成交",
+    "section": "",
+    "text": "6 AI 替你做执行，但替不了判断、客户理解和成交",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>AI 替你做执行，但替不了判断、客户理解和成交</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/04-judgment.html#执行被压缩后什么能力更值钱",
+    "href": "chapters/04-judgment.html#执行被压缩后什么能力更值钱",
+    "title": "5  AI 替你做执行，但替不了判断、客户理解和成交",
+    "section": "6.1 执行被压缩后，什么能力更值钱",
+    "text": "6.1 执行被压缩后，什么能力更值钱\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>AI 替你做执行，但替不了判断、客户理解和成交</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/04-judgment.html#为什么判断力才是新的创业壁垒",
+    "href": "chapters/04-judgment.html#为什么判断力才是新的创业壁垒",
+    "title": "5  AI 替你做执行，但替不了判断、客户理解和成交",
+    "section": "6.2 为什么判断力才是新的创业壁垒",
+    "text": "6.2 为什么判断力才是新的创业壁垒\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>AI 替你做执行，但替不了判断、客户理解和成交</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/04-judgment.html#为什么很多人会高估工具低估市场",
+    "href": "chapters/04-judgment.html#为什么很多人会高估工具低估市场",
+    "title": "5  AI 替你做执行，但替不了判断、客户理解和成交",
+    "section": "6.3 为什么很多人会高估工具、低估市场",
+    "text": "6.3 为什么很多人会高估工具、低估市场\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>AI 替你做执行，但替不了判断、客户理解和成交</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/05-problem-first.html",
+    "href": "chapters/05-problem-first.html",
+    "title": "6  不要先想做什么，先想为谁解决什么问题",
+    "section": "",
+    "text": "7 不要先想做什么，先想为谁解决什么问题",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>不要先想做什么，先想为谁解决什么问题</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/05-problem-first.html#从问题出发而不是从灵感出发",
+    "href": "chapters/05-problem-first.html#从问题出发而不是从灵感出发",
+    "title": "6  不要先想做什么，先想为谁解决什么问题",
+    "section": "7.1 从问题出发，而不是从灵感出发",
+    "text": "7.1 从问题出发，而不是从灵感出发\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>不要先想做什么，先想为谁解决什么问题</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/05-problem-first.html#如何识别高价值的细分场景",
+    "href": "chapters/05-problem-first.html#如何识别高价值的细分场景",
+    "title": "6  不要先想做什么，先想为谁解决什么问题",
+    "section": "7.2 如何识别高价值的细分场景",
+    "text": "7.2 如何识别高价值的细分场景\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>不要先想做什么，先想为谁解决什么问题</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/05-problem-first.html#如何判断一个问题是否值得做",
+    "href": "chapters/05-problem-first.html#如何判断一个问题是否值得做",
+    "title": "6  不要先想做什么，先想为谁解决什么问题",
+    "section": "7.3 如何判断一个问题是否值得做",
+    "text": "7.3 如何判断一个问题是否值得做\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>不要先想做什么，先想为谁解决什么问题</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/05-problem-first.html#如何定义真正愿意付费的客户",
+    "href": "chapters/05-problem-first.html#如何定义真正愿意付费的客户",
+    "title": "6  不要先想做什么，先想为谁解决什么问题",
+    "section": "7.4 如何定义真正愿意付费的客户",
+    "text": "7.4 如何定义真正愿意付费的客户\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>不要先想做什么，先想为谁解决什么问题</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-what-to-sell.html",
+    "href": "chapters/06-what-to-sell.html",
+    "title": "7  一个人到底该卖什么：服务、产品，还是解决方案",
+    "section": "",
+    "text": "8 一个人到底该卖什么：服务、产品，还是解决方案",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>一个人到底该卖什么：服务、产品，还是解决方案</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-what-to-sell.html#服务产品解决方案分别适合什么阶段",
+    "href": "chapters/06-what-to-sell.html#服务产品解决方案分别适合什么阶段",
+    "title": "7  一个人到底该卖什么：服务、产品，还是解决方案",
+    "section": "8.1 服务、产品、解决方案分别适合什么阶段",
+    "text": "8.1 服务、产品、解决方案分别适合什么阶段\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>一个人到底该卖什么：服务、产品，还是解决方案</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-what-to-sell.html#为什么多数人更适合从服务或解决方案切入",
+    "href": "chapters/06-what-to-sell.html#为什么多数人更适合从服务或解决方案切入",
+    "title": "7  一个人到底该卖什么：服务、产品，还是解决方案",
+    "section": "8.2 为什么多数人更适合从服务或解决方案切入",
+    "text": "8.2 为什么多数人更适合从服务或解决方案切入\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>一个人到底该卖什么：服务、产品，还是解决方案</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/06-what-to-sell.html#三种形态如何相互演进",
+    "href": "chapters/06-what-to-sell.html#三种形态如何相互演进",
+    "title": "7  一个人到底该卖什么：服务、产品，还是解决方案",
+    "section": "8.3 三种形态如何相互演进",
+    "text": "8.3 三种形态如何相互演进\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>一个人到底该卖什么：服务、产品，还是解决方案</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-why-tob.html",
+    "href": "chapters/07-why-tob.html",
+    "title": "8  为什么 toB 往往是一人公司的优先路径",
+    "section": "",
+    "text": "9 为什么 toB 往往是一人公司的优先路径",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>为什么 toB 往往是一人公司的优先路径</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-why-tob.html#tob-与-toc-的核心差异",
+    "href": "chapters/07-why-tob.html#tob-与-toc-的核心差异",
+    "title": "8  为什么 toB 往往是一人公司的优先路径",
+    "section": "9.1 toB 与 toC 的核心差异",
+    "text": "9.1 toB 与 toC 的核心差异\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>为什么 toB 往往是一人公司的优先路径</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-why-tob.html#为什么企业问题更清晰价值更容易量化",
+    "href": "chapters/07-why-tob.html#为什么企业问题更清晰价值更容易量化",
+    "title": "8  为什么 toB 往往是一人公司的优先路径",
+    "section": "9.2 为什么企业问题更清晰、价值更容易量化",
+    "text": "9.2 为什么企业问题更清晰、价值更容易量化\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>为什么 toB 往往是一人公司的优先路径</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-why-tob.html#tob-的门槛风险与误区",
+    "href": "chapters/07-why-tob.html#tob-的门槛风险与误区",
+    "title": "8  为什么 toB 往往是一人公司的优先路径",
+    "section": "9.3 toB 的门槛、风险与误区",
+    "text": "9.3 toB 的门槛、风险与误区\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>为什么 toB 往往是一人公司的优先路径</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/07-why-tob.html#为什么它是优先路径而不是唯一答案",
+    "href": "chapters/07-why-tob.html#为什么它是优先路径而不是唯一答案",
+    "title": "8  为什么 toB 往往是一人公司的优先路径",
+    "section": "9.4 为什么它是优先路径，而不是唯一答案",
+    "text": "9.4 为什么它是优先路径，而不是唯一答案\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>为什么 toB 往往是一人公司的优先路径</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/08-first-customers.html",
+    "href": "chapters/08-first-customers.html",
+    "title": "9  第一批客户与启动获客系统",
+    "section": "",
+    "text": "10 第一批客户与启动获客系统",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>第一批客户与启动获客系统</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/08-first-customers.html#从旧资源熟人和过往经验启动",
+    "href": "chapters/08-first-customers.html#从旧资源熟人和过往经验启动",
+    "title": "9  第一批客户与启动获客系统",
+    "section": "10.1 从旧资源、熟人和过往经验启动",
+    "text": "10.1 从旧资源、熟人和过往经验启动\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>第一批客户与启动获客系统</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/08-first-customers.html#内容如何服务于信任建立",
+    "href": "chapters/08-first-customers.html#内容如何服务于信任建立",
+    "title": "9  第一批客户与启动获客系统",
+    "section": "10.2 内容如何服务于信任建立",
+    "text": "10.2 内容如何服务于信任建立\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>第一批客户与启动获客系统</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/08-first-customers.html#定向触达与最早期成交",
+    "href": "chapters/08-first-customers.html#定向触达与最早期成交",
+    "title": "9  第一批客户与启动获客系统",
+    "section": "10.3 定向触达与最早期成交",
+    "text": "10.3 定向触达与最早期成交\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>第一批客户与启动获客系统</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/08-first-customers.html#第一单的目标验证案例与反馈",
+    "href": "chapters/08-first-customers.html#第一单的目标验证案例与反馈",
+    "title": "9  第一批客户与启动获客系统",
+    "section": "10.4 第一单的目标：验证、案例与反馈",
+    "text": "10.4 第一单的目标：验证、案例与反馈\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>第一批客户与启动获客系统</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/09-sales-delivery-renewal.html",
+    "href": "chapters/09-sales-delivery-renewal.html",
+    "title": "10  一个人如何完成销售、交付与复购",
+    "section": "",
+    "text": "11 一个人如何完成销售、交付与复购",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>一个人如何完成销售、交付与复购</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/09-sales-delivery-renewal.html#如何完成从沟通到成交的转换",
+    "href": "chapters/09-sales-delivery-renewal.html#如何完成从沟通到成交的转换",
+    "title": "10  一个人如何完成销售、交付与复购",
+    "section": "11.1 如何完成从沟通到成交的转换",
+    "text": "11.1 如何完成从沟通到成交的转换\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>一个人如何完成销售、交付与复购</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/09-sales-delivery-renewal.html#如何设计高质量交付体验",
+    "href": "chapters/09-sales-delivery-renewal.html#如何设计高质量交付体验",
+    "title": "10  一个人如何完成销售、交付与复购",
+    "section": "11.2 如何设计高质量交付体验",
+    "text": "11.2 如何设计高质量交付体验\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>一个人如何完成销售、交付与复购</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/09-sales-delivery-renewal.html#如何让客户复购或转介绍",
+    "href": "chapters/09-sales-delivery-renewal.html#如何让客户复购或转介绍",
+    "title": "10  一个人如何完成销售、交付与复购",
+    "section": "11.3 如何让客户复购或转介绍",
+    "text": "11.3 如何让客户复购或转介绍\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>一个人如何完成销售、交付与复购</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/09-sales-delivery-renewal.html#一人公司最小业务闭环是什么",
+    "href": "chapters/09-sales-delivery-renewal.html#一人公司最小业务闭环是什么",
+    "title": "10  一个人如何完成销售、交付与复购",
+    "section": "11.4 一人公司最小业务闭环是什么",
+    "text": "11.4 一人公司最小业务闭环是什么\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>一个人如何完成销售、交付与复购</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/10-systemize-service.html",
+    "href": "chapters/10-systemize-service.html",
+    "title": "11  如何把服务变成系统，把自己从重复劳动里解放出来",
+    "section": "",
+    "text": "12 如何把服务变成系统，把自己从重复劳动里解放出来",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>如何把服务变成系统，把自己从重复劳动里解放出来</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/10-systemize-service.html#哪些经验可以标准化",
+    "href": "chapters/10-systemize-service.html#哪些经验可以标准化",
+    "title": "11  如何把服务变成系统，把自己从重复劳动里解放出来",
+    "section": "12.1 哪些经验可以标准化",
+    "text": "12.1 哪些经验可以标准化\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>如何把服务变成系统，把自己从重复劳动里解放出来</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/10-systemize-service.html#哪些流程可以模块化",
+    "href": "chapters/10-systemize-service.html#哪些流程可以模块化",
+    "title": "11  如何把服务变成系统，把自己从重复劳动里解放出来",
+    "section": "12.2 哪些流程可以模块化",
+    "text": "12.2 哪些流程可以模块化\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>如何把服务变成系统，把自己从重复劳动里解放出来</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/10-systemize-service.html#如何借助-ai-和自动化做产品化过渡",
+    "href": "chapters/10-systemize-service.html#如何借助-ai-和自动化做产品化过渡",
+    "title": "11  如何把服务变成系统，把自己从重复劳动里解放出来",
+    "section": "12.3 如何借助 AI 和自动化做产品化过渡",
+    "text": "12.3 如何借助 AI 和自动化做产品化过渡\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>如何把服务变成系统，把自己从重复劳动里解放出来</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/10-systemize-service.html#如何避免把自己变成业务瓶颈",
+    "href": "chapters/10-systemize-service.html#如何避免把自己变成业务瓶颈",
+    "title": "11  如何把服务变成系统，把自己从重复劳动里解放出来",
+    "section": "12.4 如何避免把自己变成业务瓶颈",
+    "text": "12.4 如何避免把自己变成业务瓶颈\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>如何把服务变成系统，把自己从重复劳动里解放出来</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/11-profit-growth.html",
+    "href": "chapters/11-profit-growth.html",
+    "title": "12  一人公司该追求什么样的利润结构与增长方式",
+    "section": "",
+    "text": "13 一人公司该追求什么样的利润结构与增长方式",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>一人公司该追求什么样的利润结构与增长方式</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/11-profit-growth.html#收入不等于好业务",
+    "href": "chapters/11-profit-growth.html#收入不等于好业务",
+    "title": "12  一人公司该追求什么样的利润结构与增长方式",
+    "section": "13.1 收入不等于好业务",
+    "text": "13.1 收入不等于好业务\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>一人公司该追求什么样的利润结构与增长方式</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/11-profit-growth.html#什么是一人公司的健康利润结构",
+    "href": "chapters/11-profit-growth.html#什么是一人公司的健康利润结构",
+    "title": "12  一人公司该追求什么样的利润结构与增长方式",
+    "section": "13.2 什么是一人公司的健康利润结构",
+    "text": "13.2 什么是一人公司的健康利润结构\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>一人公司该追求什么样的利润结构与增长方式</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/11-profit-growth.html#单位时间利润为什么比规模更重要",
+    "href": "chapters/11-profit-growth.html#单位时间利润为什么比规模更重要",
+    "title": "12  一人公司该追求什么样的利润结构与增长方式",
+    "section": "13.3 单位时间利润为什么比规模更重要",
+    "text": "13.3 单位时间利润为什么比规模更重要\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>一人公司该追求什么样的利润结构与增长方式</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/11-profit-growth.html#什么时候该追求增长什么时候该保持克制",
+    "href": "chapters/11-profit-growth.html#什么时候该追求增长什么时候该保持克制",
+    "title": "12  一人公司该追求什么样的利润结构与增长方式",
+    "section": "13.4 什么时候该追求增长，什么时候该保持克制",
+    "text": "13.4 什么时候该追求增长，什么时候该保持克制\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>一人公司该追求什么样的利润结构与增长方式</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/12-redefine-success.html",
+    "href": "chapters/12-redefine-success.html",
+    "title": "13  当你一个人也能开公司，成功该如何重新定义",
+    "section": "",
+    "text": "14 当你一个人也能开公司，成功该如何重新定义",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>当你一个人也能开公司，成功该如何重新定义</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/12-redefine-success.html#为什么规模不再是唯一标准",
+    "href": "chapters/12-redefine-success.html#为什么规模不再是唯一标准",
+    "title": "13  当你一个人也能开公司，成功该如何重新定义",
+    "section": "14.1 为什么规模不再是唯一标准",
+    "text": "14.1 为什么规模不再是唯一标准\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>当你一个人也能开公司，成功该如何重新定义</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/12-redefine-success.html#控制权自由度和生活结构的重要性",
+    "href": "chapters/12-redefine-success.html#控制权自由度和生活结构的重要性",
+    "title": "13  当你一个人也能开公司，成功该如何重新定义",
+    "section": "14.2 控制权、自由度和生活结构的重要性",
+    "text": "14.2 控制权、自由度和生活结构的重要性\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>当你一个人也能开公司，成功该如何重新定义</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/12-redefine-success.html#一人公司是阶段选择还是长期形态",
+    "href": "chapters/12-redefine-success.html#一人公司是阶段选择还是长期形态",
+    "title": "13  当你一个人也能开公司，成功该如何重新定义",
+    "section": "14.3 一人公司是阶段选择，还是长期形态",
+    "text": "14.3 一人公司是阶段选择，还是长期形态\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>当你一个人也能开公司，成功该如何重新定义</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/12-redefine-success.html#在-ai-时代如何重新理解创业与成功",
+    "href": "chapters/12-redefine-success.html#在-ai-时代如何重新理解创业与成功",
+    "title": "13  当你一个人也能开公司，成功该如何重新定义",
+    "section": "14.4 在 AI 时代，如何重新理解创业与成功",
+    "text": "14.4 在 AI 时代，如何重新理解创业与成功\n待写。",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>当你一个人也能开公司，成功该如何重新定义</span>"
+    ]
+  }
+]
